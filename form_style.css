@@ -1,0 +1,43 @@
+/*-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,6000);*/
+
+body{
+    background :linear-gradient(#c5811a,#243b55);
+}
+.error{
+    color : rgb(95, 5, 5);
+}
+h1{
+    color: #f1d6a9;
+}
+.submission{
+    max-width : 300px;
+    max-height: 800px;
+    margin : auto;
+    box-sizing :border-box;
+    box-shadow : 0 15px 25px rgba(20, 16, 7, 0.6);
+    border-radius: 15px;
+    padding : 50px;
+
+}
+.container{
+    max-width : 400px;
+    width : 100%;
+    margin :0 auto;
+    position: relative
+}
+#fname,#sname,#email,#department,#favcolor,#DOB{
+    border: medium solid #4e3a1b;
+    border-radius : 5px;
+}
+.password_style,#department{
+    border: medium solid #0e1d30;
+    border-radius : 5px;
+}
+.submit_style{
+    background-color: #667688;
+    border-radius : 7px;
+}
+.texts{
+    color: #f1d6a9;
+
+}
