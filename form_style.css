@@ -1,7 +1,7 @@
 /*-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,6000);*/
 
 body{
-    background :linear-gradient(#c5811a,#243b55);
+    background :linear-gradient(to right,#c5811a,#243b55);
 }
 .error{
     color : rgb(95, 5, 5);
